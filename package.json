@@ -1,0 +1,8 @@
+{
+  "name": "isbn-proxy",
+  "version": "1.0.0",
+  "main": "api/isbn.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
